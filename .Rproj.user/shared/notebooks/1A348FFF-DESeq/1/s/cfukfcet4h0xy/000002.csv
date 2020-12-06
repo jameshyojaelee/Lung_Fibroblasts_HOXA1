@@ -1,0 +1,6 @@
+"0","sig_genes <- res[res$padj <= 0.05 & !is.na(res$padj), ""symbol""]"
+"0","print(paste(""Total number of significant genes:"", length(sig_genes)))"
+"1","[1]"
+"1"," ""Total number of significant genes: 8146"""
+"1","
+"

@@ -1,0 +1,114 @@
+"0","library(DESeq2)"
+"2","Loading required package: S4Vectors
+"
+"2","package ‘S4Vectors’ was built under R version 3.6.3"
+"2","Loading required package: stats4
+"
+"2","Loading required package: BiocGenerics
+"
+"2","Loading required package: parallel
+"
+"2","
+Attaching package: ‘BiocGenerics’
+
+"
+"2","The following objects are masked from ‘package:parallel’:
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    anyDuplicated, append, as.data.frame, basename, cbind, colnames,
+    dirname, do.call, duplicated, eval, evalq, Filter, Find, get, grep,
+    grepl, intersect, is.unsorted, lapply, Map, mapply, match, mget,
+    order, paste, pmax, pmax.int, pmin, pmin.int, Position, rank,
+    rbind, Reduce, rownames, sapply, setdiff, sort, table, tapply,
+    union, unique, unsplit, which, which.max, which.min
+
+"
+"2","
+Attaching package: ‘S4Vectors’
+
+"
+"2","The following object is masked from ‘package:base’:
+
+    expand.grid
+
+"
+"2","Loading required package: IRanges
+"
+"2","package ‘IRanges’ was built under R version 3.6.2"
+"2","
+Attaching package: ‘IRanges’
+
+"
+"2","The following object is masked from ‘package:grDevices’:
+
+    windows
+
+"
+"2","Loading required package: GenomicRanges
+"
+"2","Loading required package: GenomeInfoDb
+"
+"2","package ‘GenomeInfoDb’ was built under R version 3.6.3"
+"2","Loading required package: SummarizedExperiment
+"
+"2","package ‘SummarizedExperiment’ was built under R version 3.6.2"
+"2","Loading required package: Biobase
+"
+"2","Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation(""Biobase"")', and for packages 'citation(""pkgname"")'.
+
+"
+"2","Loading required package: DelayedArray
+"
+"2","package ‘DelayedArray’ was built under R version 3.6.3"
+"2","Loading required package: matrixStats
+"
+"2","package ‘matrixStats’ was built under R version 3.6.3"
+"2","
+Attaching package: ‘matrixStats’
+
+"
+"2","The following objects are masked from ‘package:Biobase’:
+
+    anyMissing, rowMedians
+
+"
+"2","Loading required package: BiocParallel
+"
+"2","package ‘BiocParallel’ was built under R version 3.6.2"
+"2","
+Attaching package: ‘DelayedArray’
+
+"
+"2","The following objects are masked from ‘package:matrixStats’:
+
+    colMaxs, colMins, colRanges, rowMaxs, rowMins, rowRanges
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    aperm, apply, rowsum
+
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

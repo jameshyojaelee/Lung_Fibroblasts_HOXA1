@@ -1,0 +1,6 @@
+"0","#Export the datawframe to csv file"
+"0","res = res[order(res$pvalue),]"
+"0","write.csv(res, ""deseq_results.csv"")"
+"0",""
+"0",""
+"0",""

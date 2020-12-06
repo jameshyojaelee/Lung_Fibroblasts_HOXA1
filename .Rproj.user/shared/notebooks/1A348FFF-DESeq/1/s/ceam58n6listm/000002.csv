@@ -1,0 +1,2 @@
+"0","plot( res$log2FoldChange, -log(res$padj) )"
+"0",""

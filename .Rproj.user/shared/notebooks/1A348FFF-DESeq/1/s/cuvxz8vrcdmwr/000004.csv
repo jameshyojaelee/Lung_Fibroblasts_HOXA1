@@ -1,0 +1,6 @@
+"0","metaFile <- ""data/GSE37704_metadata.csv"""
+"0","countFile <- ""data/GSE37704_featurecounts.csv"""
+"0",""
+"0","# Import metadata and take a peak"
+"0","colData = read.csv(metaFile, row.names=1)"
+"0","head(colData)"
